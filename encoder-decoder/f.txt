@@ -1,1 +1,1 @@
-f
+link for the research paper from google (encoder-decoder) - https://arxiv.org/pdf/1409.3215.pdf
