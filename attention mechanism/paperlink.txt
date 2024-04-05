@@ -1,1 +1,3 @@
 paper link : https://arxiv.org/pdf/1409.0473.pdf
+       Luong Attention: https://arxiv.org/pdf/1508.04025.pdf
+       Bahdanau Attention: https://arxiv.org/pdf/1409.0473.pdf
