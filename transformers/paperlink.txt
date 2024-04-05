@@ -1,1 +1,2 @@
-papers : transformer explained with application https://arxiv.org/pdf/2306.07303.pdf
+papers : https://arxiv.org/pdf/1706.03762.pdf
+        transformer explained with application https://arxiv.org/pdf/2306.07303.pdf
